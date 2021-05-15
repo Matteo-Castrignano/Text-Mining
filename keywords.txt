@@ -15,9 +15,12 @@ Johnson
 #iovaccino
 #sivaccino
 #novaccino
-anticovid
+#vaccinoCovid
+#vaccinoAnticovid
 janssen
 CureVac
 Novavax
 Sinovac
 vaxzevria
+trombosi vaccini
+trombosi vaccino
